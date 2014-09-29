@@ -1,6 +1,6 @@
 {
-    "name": "pagon/jade",
-    "description": "Jade of Pagon",
+    "name": "maht0rz/jade",
+    "description": "Jade of Maht0rz / pagon version had broken ? regex, so i edited it a bit!",
     "keywords": ["jade", "jade.php", "template"],
     "license": "MIT",
     "authors": [
